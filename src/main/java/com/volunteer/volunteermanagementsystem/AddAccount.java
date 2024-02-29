@@ -10,6 +10,7 @@ import jakarta.servlet.http.HttpServletResponse;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.sql.*;
+import java.util.Random;
 
 @WebServlet("/addAccount")
 public class AddAccount  extends HttpServlet {
@@ -19,7 +20,7 @@ public class AddAccount  extends HttpServlet {
         Integer age = Integer.valueOf(req.getParameter("age"));
         String email = req.getParameter("usr_mail");
         String pass = req.getParameter("pass");
-
+        SendMail.mailer(email);
         try {
             Class.forName("com.mysql.jdbc.Driver");
             Connection connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/demo", "Dsi", "1234");

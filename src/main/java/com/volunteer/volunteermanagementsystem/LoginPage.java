@@ -25,7 +25,6 @@ public class LoginPage extends HttpServlet {
         }
         if(assigned.equals("batpar")==true)
         {
-            System.out.println('1');
             resp.sendRedirect("loginPage.jsp");
         }
         else

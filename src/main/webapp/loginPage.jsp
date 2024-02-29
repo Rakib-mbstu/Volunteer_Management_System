@@ -9,10 +9,10 @@
 <html>
 <head>
     <title>Volunteer Management System</title>
+    <link rel="stylesheet" href="StyleShett.css">
 </head>
-<body>
-<div style="background-color: azure">
-    <center>
+<body style="background-color: #3163d7">
+<div  id="div1">
         <h1>Welcome to Volunteer Management System</h1>
         <form action="login">
             Enter Mail:<br><input type="text" name="usr_mail"><br>
@@ -22,7 +22,6 @@
 <a href="forgotPass.jsp">Forgot Password?</a><br>
 
 <a href="newAccount.jsp">Register</a>
-    </center>
 </div>
 </body>
 </html>

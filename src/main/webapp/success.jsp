@@ -9,9 +9,12 @@
 <html>
 <head>
     <title>Volunteer Management System</title>
+    <link rel="stylesheet" href="StyleShett.css">
 </head>
 <body>
-<h1 align="center">  Registration Completed  </h1>
-<h3 align="center"><a href="loginPage.jsp">Log in</a> </h3>
+<div id="div2">
+    <h1 >  Registration Completed </h1>
+    <h3 ><a href="loginPage.jsp">Log in</a> </h3>
+</div>
 </body>
 </html>
