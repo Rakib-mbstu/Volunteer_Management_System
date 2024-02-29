@@ -10,15 +10,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3db1f6d-d6b7-4d13-8720-07225b0c88fc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/volunteer/volunteermanagementsystem/SendMail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/StyleShett.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/volunteer/volunteermanagementsystem/AddAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/volunteer/volunteermanagementsystem/AddAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/volunteer/volunteermanagementsystem/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/volunteer/volunteermanagementsystem/LoginPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/loginPage.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/loginPage.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/success.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/success.jsp" afterDir="false" />
-    </list>
+    <list default="true" id="b3db1f6d-d6b7-4d13-8720-07225b0c88fc" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,7 +55,6 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "Tomcat Server.Tomcat 10.1.17.executor": "Run",
-    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/home/dsi/IdeaProjects/VolunteerManagementSystem",
     "list.type.of.created.stylesheet": "CSS",
@@ -198,6 +189,7 @@
       <workItem from="1703996287670" duration="22010000" />
       <workItem from="1704082997171" duration="7143000" />
       <workItem from="1704691371968" duration="5916000" />
+      <workItem from="1709210382248" duration="331000" />
     </task>
     <servers />
   </component>
